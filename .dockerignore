@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+dataset_images/
+generate_dummy_data.py
+train.py
+main_train.py
+data_processing.py
+*.md
